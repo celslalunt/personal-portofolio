@@ -1,11 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projimg4 from "../assets/img/project-img4.jpeg";
-import projimg5 from "../assets/img/project-img5.jpeg";
-import projimg6 from "../assets/img/project-img6.jpeg";
-import projimg7 from "../assets/img/project-img7.jpeg";
-import projimg8 from "../assets/img/project-img8.png";
-import projimg9 from "../assets/img/project-img9.png";
+import projimg1 from "../assets/img/project-img4.jpeg";
+import projimg2 from "../assets/img/project-img5.jpeg";
+import projimg3 from "../assets/img/project-img10.jpeg";
+import projimg4 from "../assets/img/project-img11.jpeg";
+import projimg5 from "../assets/img/project-img12.jpeg";
+import projimg6 from "../assets/img/project-img13.jpeg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -16,32 +16,32 @@ export const Projects = () => {
     {
       title: "Food",
       description: "Food Street Bangkok",
-      imgUrl: projimg4,
+      imgUrl: projimg1,
     },
     {
       title: "Food",
       description: "Food Street Korea",
-      imgUrl: projimg5,
-    },
-    {
-      title: "Skincare",
-      description: "Essence dan Serum",
-      imgUrl: projimg6,
+      imgUrl: projimg2,
     },
     {
       title: "Make Up Kit",
-      description: "Channel dan Teman-teman",
-      imgUrl: projimg7,
+      description: "Maybelline dan teman-teman",
+      imgUrl: projimg3,
+    },
+    {
+      title: "Skincare Kit",
+      description: "Essence dan serum",
+      imgUrl: projimg4,
     },
     {
       title: "Traveling",
       description: "Around the World",
-      imgUrl: projimg8,
+      imgUrl: projimg5,
     },
     {
       title: "Traveling",
       description: "World",
-      imgUrl: projimg9,
+      imgUrl: projimg6,
     },
   ];
 
