@@ -2,7 +2,7 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michelangel20.github.io/personal-portofolio",
+  "homepage": "https://michelangel20.github.io/personal-portofolio/",
   "dependencies": {
     "gh": "^2.8.9",
     "gh-pages": "^5.0.0",
